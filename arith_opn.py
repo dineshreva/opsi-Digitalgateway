@@ -18,5 +18,6 @@ if __name__ == "__main__":
 		mult(x,y)
 	else:
 		print("No Operation has specified  ")
+		print("Hello")
 
 	
